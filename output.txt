@@ -1,0 +1,3 @@
+Hello, Python!
+Clement is handsome yay
+Clement belongs to publicity department
